@@ -11,12 +11,9 @@
   I’m a backend software engineer in training through the <strong>ALX Software Engineering Program</strong>. I’m driven by a deep curiosity for how systems work, and I thrive on solving tough technical problems with clean, scalable solutions.
 </p>
 
-<p align="center">
-  <em>“[Insert what drew you to software engineering—your why, your inspiration, your passion.]”</em>
-</p>
 
 <p align="center">
-  My goal is to <strong>[insert your vision—e.g., build systems that empower communities, create efficient tech solutions for small businesses, etc.]</strong>. That's why I focus on projects like <strong>[insert types of projects you want to work on—e.g., APIs, microservices, DevOps automation, etc.]</strong>.
+  My goal is to <strong> learn how to build systems that empower communities, create efficient tech solutions for small businesses, etc.]</strong>. That's why I focus on projects like <strong>[insert types of projects you want to work on—e.g., APIs, microservices, DevOps automation, etc.]</strong>.
 </p>
 
 ---
