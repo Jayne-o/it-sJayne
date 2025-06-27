@@ -1,7 +1,7 @@
 # it-sJayne
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Hi%20there,%20I'm%20[Your%20Name]!&fontSize=40&fontColor=FFFFFF&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Hi%20there,%20I'm%20[Your%20Jayne]!&fontSize=40&fontColor=FFFFFF&animation=fadeIn" alt="banner" />
 </p>
 
 <!-- Introduction -->
